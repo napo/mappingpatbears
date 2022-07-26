@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>griglia 3km</name>
+    <NetworkLink>
+      <name>AREA DI PRESENZA PIÙ RECENTE - JJ4 IN ROSA, M62 IN BLU, F43 IN GIALLO, M78 IN VERDE</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?mid=1I2AwqVdHwkiRrQeFHHf5A1IoCioVd9TQ&lid=sAvnhrZ7S-0]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
